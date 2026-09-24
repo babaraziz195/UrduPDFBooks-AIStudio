@@ -1,0 +1,7 @@
+{
+  "name": "UrduPDFBooks",
+  "description": "Modern online Urdu digital library and PDF reader for Urdu literature, novels, poetry, history, and classics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
